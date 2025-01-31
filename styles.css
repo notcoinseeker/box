@@ -1,0 +1,30 @@
+body {
+    background-color: #2f4f4f;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: #3b2121;
+    padding: 15px;
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.box {
+    background-color: #40e0d0;
+    color: black;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 20px;
+    width: 50%;
+}
